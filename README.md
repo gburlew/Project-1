@@ -31,6 +31,9 @@ The resource folder includes the csv files that we used to merge and analyze our
 - [vaccinations-by-manufacturer.csv]([Resources/vaccinations-by-manufacturer.csv]): Includes the number of doses of each brand of vaccine that were distributed per country. This is a count, not a proportion.
 - [world-population-data.csv]([Resources/world-population-data.csv]): This was the data used to calibrate for population. It included the 2022 populations for each country.
 
+### Images
+The [Images](Images) folder contains the graphs that our code produced, saved as jpeg files.
+
 ## Citing Sources:
 
 Genevieve:
