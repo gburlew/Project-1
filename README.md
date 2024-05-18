@@ -1,5 +1,11 @@
 # Project-1
-Observing trends regarding the Covid vaccines.
+
+## Analysis
+From our data, we were able to make a few observations that we found most interest. The first note that we made was that population had a strong correlation with both cases (r = 0.957) and total vaccinations distributed (r = 0.975). This makes logical sense, since having a larger population would require more doses of the vaccine, but we were able to demonstrate this and provide evidence by running a correlation on the two. Worldwide, an average of 1.88 doses of any vaccine were distributed per person, with a standard deviation of 0.63 doses. This number was higher than we first anticipated. The large standard deviation also told use that countries had a large variance between each number of doses they had.
+
+Majority of those fully vaccinated were above the age of 60. Our speculation for this was that individuals over the age of 60 most likely had marketing campaigns and doctor advice beyond the scope of what was seen by others in different age groups. We also noted no statistically significant difference between full vaccinations, partial vaccinations, and boosters within the age group: 60+. There was a large amount of uniformity for these disaggregations. Variation between total and type of vaccination does exist amongst the other age groups(0-17, 18-39, 40-59). Those groups had large differences between the doses received groupings.
+
+Finally, we noted that Pfizer/BioNTech was overall the most popular vaccine, when comparing those numbers to any other vaccine that was available. This is both seen when comparing different countries or age groups. This makes logical sense because this was the brand that was most advertised as a safe and effective vaccine brand. We anticipated this, but it was interesting to see the data reflect our initial thoughts.
 
 ## Overview of the Project
 Our main goal was to observe trends involving vaccination rates for the Covid vaccine. We plan to look at several open source datasets from around the world, specifically ones that focus on the rates of vaccination in different countries disaggregated by vaccine manufacturer, age groups and population sizes. This includes looking at differences between age groups and their preferences towards certain vaccines, vaccine rates in particular countries, and the total cases a country experienced.
