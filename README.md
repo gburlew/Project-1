@@ -22,14 +22,14 @@ Below is the link to our presentation. This includes all of the graphs that we f
 ## Navigating our Repository
 Our repository has several resources and notebooks that we worked in. Below you can find links to the most important ones.
 ### Notebooks
-The [main](Notebooks/main.ipynb) notebook holds our merged drafts, and runs the code to get all of our graphs. We have several rough drafts that were used to merge into our main notebook, including the [analyzing total vax (rough)](Notebooks/analyzing total vax (rough).ipynb), and the [covid cases vs vax]([url](https://github.com/gburlew/Project-1/blob/main/Notebooks/covid%20cases%20vs%20vax.ipynb)).
+The [main](Notebooks/main.ipynb) notebook holds our merged drafts, and runs the code to get all of our graphs. We have several rough drafts that were used to merge into our main notebook, including [rough_1](Notebooks/rough_1.ipynb) and [rough_2](Notebooks/rough_2.ipynb).
 
 ### Resources
 The resource folder includes the csv files that we used to merge and analyze our data. Below are descriptions of the csv files.
-- [full-data.csv]([url](https://github.com/gburlew/Project-1/blob/main/Resources/full_data.csv)): This file contains the total cases and deaths from covid for each country.
-- [vaccinations-by-age-group.csv]([url](https://github.com/gburlew/Project-1/blob/main/Resources/vaccinations-by-age-group.csv)): This file disaggregates age groups based on the portion of the population that received a vaccine. The proportions are based on what percent of the population received a dose of the vaccine, including initial dose, second dose, and booster.
-- [vaccinations-by-manufacturer.csv]([url](https://github.com/gburlew/Project-1/blob/main/Resources/vaccinations-by-manufacturer.csv)): Includes the number of doses of each brand of vaccine that were distributed per country. This is a count, not a proportion.
-- [world-population-data.csv]([url](https://github.com/gburlew/Project-1/blob/main/Resources/world-population-data.csv)): This was the data used to calibrate for population. It included the 2022 populations for each country.
+- [full-data.csv]([Resources/full_data.csv]): This file contains the total cases and deaths from covid for each country.
+- [vaccinations-by-age-group.csv]([Resources/vaccinations-by-age-group.csv]): This file disaggregates age groups based on the portion of the population that received a vaccine. The proportions are based on what percent of the population received a dose of the vaccine, including initial dose, second dose, and booster.
+- [vaccinations-by-manufacturer.csv]([Resources/vaccinations-by-manufacturer.csv]): Includes the number of doses of each brand of vaccine that were distributed per country. This is a count, not a proportion.
+- [world-population-data.csv]([Resources/world-population-data.csv]): This was the data used to calibrate for population. It included the 2022 populations for each country.
 
 ## Citing Sources:
 
